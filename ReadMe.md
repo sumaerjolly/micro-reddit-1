@@ -21,7 +21,7 @@ $ user1 = User.create({:username => 'username1', :mail => 'usernamemail@mail.com
 
 ### Contributors
 
-*[Sumaer Jolly](https://github.com/sumaerjolly)
-*[Xarri Jorge](https://github.com/xarrijorge)
+* [Sumaer Jolly](https://github.com/sumaerjolly)
+* [Xarri Jorge](https://github.com/xarrijorge)
 
 
